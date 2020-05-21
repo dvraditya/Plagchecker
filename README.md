@@ -3,7 +3,6 @@ check plagiarism percentage between two text files (Python)
 
 ## Getting Started
 
-Plagiarism works on **Python 3+** and Django 2+.
 
 Install dependencies:
 
